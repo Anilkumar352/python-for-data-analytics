@@ -1,5 +1,6 @@
-# Python-for-data-analytics
+# Python-for-Data-Analytics
 Python fundamentals for Data Analytics with examples and practice files.
+
 # Python for Data Analytics 🐍📊
 
 This repository contains **Python basics for Data Analytics**.  
