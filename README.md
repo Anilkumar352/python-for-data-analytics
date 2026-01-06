@@ -18,7 +18,7 @@ It is designed for **beginners** who want to learn Python concepts required for 
 - Data Analysis Practice Examples
 
 ## 🔹 Folder Structure
-python-for-data-analytics/
+Python-for-data-analytics
 │
 ├── 01_python_intro.py
 ├── 02_variables_datatypes.py
