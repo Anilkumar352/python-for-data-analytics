@@ -1,4 +1,4 @@
-# python-for-data-analytics
+# Python-for-data-analytics
 Python fundamentals for Data Analytics with examples and practice files.
 # Python for Data Analytics 🐍📊
 
