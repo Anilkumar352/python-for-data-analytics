@@ -20,17 +20,29 @@ It is designed for **beginners** who want to learn Python concepts required for 
 ## 🔹 Folder Structure
 Python-for-data-analytics
 │
+
 ├── 01_python_intro.py
+
 ├── 02_variables_datatypes.py
+
 ├── 03_operators.py
+
 ├── 04_conditions.py
+
 ├── 05_loops.py
+
 ├── 06_functions.py
+
 ├── 07_lists_tuples_sets.py
+
 ├── 08_dictionary.py
+
 ├── 09_numpy_basics.py
+
 ├── 10_pandas_basics.py
+
 ├── practice_examples.py
+
 └── README.md
 
 ## 🔹 Tools Used
